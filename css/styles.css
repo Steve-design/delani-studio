@@ -5,3 +5,31 @@
     background-position: center;
     position:relative;
 }
+.logo{
+    padding-left: 45%;
+    padding-top:  140px;
+
+}
+.welcome{
+    text-align: center;
+    padding-top: 60px;
+    color:white;
+}
+.to{
+    text-align: center;
+    padding-top:20px;
+    color:white;
+    font-size: 40px;
+}
+.part{
+    text-align:center;
+    color:white;
+}
+.mouse{
+    padding-left: 47%;
+    padding-top: 135px;
+}
+.about{
+    margin-top: 50px;
+    text-align: center;
+}
