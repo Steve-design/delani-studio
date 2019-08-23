@@ -38,7 +38,7 @@
     margin-top:50px;
     background-image: url(../img/s.jpg);
     background-size:100%;
-    height:100vh;
+    height:500px;
     position:relative;
     background-repeat: no-repeat;
 }
@@ -51,3 +51,12 @@
     text-align: center;
     color:white;
 }
+ .products{
+    padding-top: -100px;
+ }
+ #we{
+     padding-bottom:40px;
+ }
+ .row{
+     padding-bottom: 60px;
+ }
