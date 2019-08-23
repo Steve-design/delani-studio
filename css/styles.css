@@ -8,7 +8,7 @@
 }
 .logo{
     padding-left: 45%;
-    padding-top:  140px;
+    padding-top:  170px;
 
 }
 .welcome{
@@ -34,6 +34,20 @@
     margin-top: 50px;
     text-align: center;
 }
+.services{
+    margin-top:50px;
+    background-image: url(../img/s.jpg);
+    background-size:100%;
+    height:100vh;
+    position:relative;
+    background-repeat: no-repeat;
+}
 .service{
-    background-image: url(./img/s.jpg);
+    text-align: center;
+    color:white;
+    padding-top: 100px;
+}
+.tech{
+    text-align: center;
+    color:white;
 }
