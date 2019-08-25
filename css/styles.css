@@ -63,11 +63,36 @@
  .container{
      text-align: center;
  }
- .contact{
-     text-align: center;
-     background-image: url(../img/contact.jpg);
-     background-size:cover;
-     background-position: center;
-     position:relative;
-     background-repeat: no-repeat;
+ #contact {
+    background-image: url(../img/contact.jpg);
+    background-size: cover;
+    background-position: cover;
+    margin-top: 50px;
+ }
+ .form-cont input {
+    width: 49%;
+    background: transparent;
+ }
+ .form-cont textarea {
+    margin-top: 10px;
+    width: 100%;
+    background: transparent;
+ }
+ .form-cont {
+    text-align: center;
+    position: relative;
+    width: 700px;
+    max-width: 100%;
+    left: 50%;
+    transform: translate(-50%);
+ }
+ ::placeholder{
+    font-size: 10px;
+    color: black;
+ }
+ #contact h1{
+    color: white;
+ }
+ .con {
+    padding-bottom: 30px;
  }
