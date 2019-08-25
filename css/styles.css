@@ -63,3 +63,11 @@
  .container{
      text-align: center;
  }
+ .contact{
+     text-align: center;
+     background-image: url(../img/contact.jpg);
+     background-size:cover;
+     background-position: center;
+     position:relative;
+     background-repeat: no-repeat;
+ }
