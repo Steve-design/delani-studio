@@ -63,6 +63,13 @@
  .container{
      text-align: center;
  }
+ .container p{
+     display:none;
+     text-align: center;
+     font-size: 30px;
+     padding-top: 40px;
+     padding-left: 30px;
+ }
  .contact {
     background-image: url(../img/contact.jpg);
     background-size: cover;
@@ -88,7 +95,7 @@
  }
  ::placeholder{
     font-size: 10px;
-    color: black;
+    color:white;
  }
  #contact h1{
     color: white;
