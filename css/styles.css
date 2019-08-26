@@ -63,7 +63,7 @@
  .container{
      text-align: center;
  }
- #contact {
+ .contact {
     background-image: url(../img/contact.jpg);
     background-size: cover;
     background-position: cover;
